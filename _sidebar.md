@@ -1,25 +1,11 @@
 # <div class="sidebar_title icon__uhost"> 云主机 UHost</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
 
-
 * [概览](README.md)
-* 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
-   * [什么是云主机](相对链接)
-   * [功能与优势](相对链接)
-   * [应用场景](相对链接)
-* 计费
-   * [计费模式](相对链接)
-   * [定价表](相对链接)
-   * [配置变更](相对链接)
-   * [续费](相对链接)
-   * [退款](相对链接)
-* 注意事项与使用限制
-   * [注意事项描述](相对链接)
-* 创建第一台云主机
-   * [创建资源](相对链接)
-* 操作指南
-   * [创建](相对链接)
-   * [管理](相对链接)
-* 常见问题
-   * 场景相关
-      * [问题描述](相对链接)
-* [词汇表](_glossary.md)
+* 产品介绍
+  * [什么是Cube](./introduction/whatiscube.md)
+  * [产品优势](./introduction/advantages.md)
+* 使用指南
+  * [使用须知](./userguide/before_start.md)
+  * [快速创建](./userguide/quick_start.md)
+  * [创建详解](./userguide/describe_create.md)
+  * [对比K8S](./userguide/from_k8s.md)
