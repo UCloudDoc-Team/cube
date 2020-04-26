@@ -17,8 +17,8 @@
 键值对key：`default.conf`
 
 键值对value：
-```
-    server {
+
+```    server {
         listen      8080; 
         server_name localhost; 
         location / {
@@ -29,8 +29,7 @@
         location = /50x.html { 
             root   /usr/share/nginx/html; 
         }
-      }
-```
+      }```
 
 这里可以看到我们修改了nginx的配置文件，将监听端口配置从原80到8080，作为一个配置文件进行创建。
 
