@@ -9,11 +9,11 @@
 |Running|表示容器组正常运行。|
 |Completed|表示容器组中的容器任务已经执行完成，执行任务结束的状态返回。|
 |Error|表示容器组中部分容器运行不正常，正在重试容器启动。|
-|ContainerCreating|容器创建中|
+|ContainerCreating|容器创建中。|
 |CrashLoopBackOff|表示容器组启动失败，组内部分或全部容器处于不健康的状态。|
 |ImagePullBackOff|表示使用的镜像仓库设置了密码或者镜像已经被删除，导致镜像拉取失败。|
 |Terminating|表示容器正在结束当前执行程序优雅退出。|
-|Pending|集群没有资源或者kubelet暂时失联不可用|
+|Pending|集群没有资源或者kubelet暂时失联不可用。|
 
 ## 错误状态排查
 
