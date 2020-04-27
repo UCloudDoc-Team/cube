@@ -6,7 +6,7 @@
 
 #### 非必填项
 
-卷设置提供了configMap类型，与Kubernetes中的configMap资源对象一致。configMap提供的是明文的键值对挂载。
+卷设置提供了config类型，与Kubernetes中的configMap资源对象一致。config提供的是键值对配置文件挂载。
 
 ![](../images/volume1.png)
 
@@ -87,7 +87,7 @@ daemon off;
 
 #### 非必填项
 
-这里可以将我们创建的卷设置进行挂载，我们上面创建了一个nginx的配置文件configMap，这里我们将它挂进我们的容器中。
+这里可以将我们创建的卷设置进行挂载，我们上面创建了一个nginx的配置文件config，这里我们将它挂进我们的容器中。
   
 挂载路径: `/etc/nginx/conf.d/`
 
