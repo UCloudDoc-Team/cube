@@ -11,3 +11,6 @@
     * [快速创建](/cube/userguide/quick_start.md)
     * [创建详解](/cube/userguide/describe_create.md)
     * [对比K8S](/cube/userguide/from_k8s.md)
+* 常见问题
+  * 
+    * [运行状态](/cube/question/status.md)

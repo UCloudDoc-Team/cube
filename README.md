@@ -20,3 +20,8 @@
 * [创建详解](/cube/userguide/describe_create.md)
 * [对比K8S](/cube/userguide/from_k8s.md)
 
+## 常见问题
+
+在您在部署容器组时，对应的您可能会遇到一些使用中的问题，常见问题分类将解决您遇到的大部分问题，如您未找到解决方案请与我们客服联系。
+
+* [运行状态](/cube/question/status.md)
