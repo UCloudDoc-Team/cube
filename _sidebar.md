@@ -1,4 +1,4 @@
-# <div class="sidebar_title icon__uhost"> 容器实例 Cube</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
+# <div class="sidebar_title icon__cube"> 容器实例 Cube</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
 
 * [概览](/cube/README.md)
 * 产品介绍
