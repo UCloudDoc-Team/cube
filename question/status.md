@@ -12,6 +12,7 @@
 |ContainerCreating|容器创建中。|
 |CreateContainerError|镜像中的执行命令或者创建时添加的命令在容器中执行失败。|
 |CrashLoopBackOff|表示容器组启动成功后运行失败，组内部分或全部容器处于不健康的状态。|
+|ErrImagePull|镜像拉取错误，正在进行重试。|
 |ImagePullBackOff|表示使用的镜像仓库设置了密码或者镜像已经被删除，导致镜像拉取失败。|
 |Terminating|表示容器正在结束当前执行程序优雅退出。|
 |Pending|没有足够资源创建容器组。|
@@ -50,7 +51,7 @@
 3. 查看是否为centos、busybox一类镜像，此类镜像由于没有固定进程启动，如是则需要设定启动命令，需重建。
 4. 多容器的容器组中，修改已存在的端口冲突，需重建。
 
-### ImagePullBackOff
+### ImagePullBackOff & ErrImagePull
 
 使用的镜像仓库设置了密码或者镜像已经被删除，导致镜像拉取失败。
 
