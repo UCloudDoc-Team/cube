@@ -10,6 +10,6 @@
   * [创建详解](/cube/userguide/describe_create.md)
   * [对比K8S](/cube/userguide/from_k8s.md)
 * 卷设置
-  * [在Cube中使用UFS](/cube/)
+  * [在Cube中使用UFS](/cube/volume/ufs.md)
 * 常见问题
   * [运行状态](/cube/question/status.md)
