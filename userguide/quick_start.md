@@ -14,3 +14,4 @@
 
 ![](../images/createCube3.png)
    
+> Cube支持除UFS外，也默认支持其他nfs协议的文件存储，用户如需使用需要自行配置。
