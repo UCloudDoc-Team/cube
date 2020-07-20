@@ -1,9 +1,9 @@
 # 概览
 容器实例（Cube）是UCloud提供的基于serverless架构的容器实例服务，通过UCloud的基础设施资源为业务提供了更加弹性、更加安全、更加快速的资源支撑，你可以在Cube上部署、管理你的容器应用，而你无需关心应用底层的服务器运维工作。
 
-#### <center>限时加入Cube测试交流群，获得专业的技术指导。</center>  
+<!-- #### <center>限时加入Cube测试交流群，获得专业的技术指导。</center>  
 
-<div align=center><img src="./images/wechatGroup_20200720.png" width="300" /></div>
+<div align=center><img src="./images/wechatGroup_20200720.png" width="300" /></div> -->
 
 <!-- ![](./images/wechatGroup_20200720.png) {} -->
 
