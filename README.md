@@ -6,7 +6,7 @@
 <div align=center><img src="./images/wechatGroup_20200720.png" width="300" /></div> -->
 
 
-![](/images/wechatGroup_20200720.png)
+<center>![](/images/wechatGroup_20200720.png)</center>
 
 
 #### <center>[产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题) </center>   
