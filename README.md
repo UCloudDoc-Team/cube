@@ -8,7 +8,7 @@
 
 ![](/images/wechatGroup1.png)
 
-![](/images/wechatGroup2.png)
+<center> ![](/images/wechatGroup2.png) </center>  
 
 #### <center>[产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题) </center>   
 
