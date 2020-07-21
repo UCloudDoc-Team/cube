@@ -6,13 +6,13 @@
 <div align=center><img src="./images/wechatGroup_20200720.png" width="300" /></div> -->
 
 
-#### <center> 限时加入Cube测试交流群，获得专业的技术指导。</center> 
+#### <center>限时加入Cube测试交流群，获得专业的技术指导。</center> 
 
 ![](/images/wechatGroup1.png)
 
 <!-- <center> ![](/images/wechatGroup2.png) </center>   -->
 
-#### <center>[产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题) </center>   
+#### <center>[产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题)</center>   
 
 ## 产品介绍
 
