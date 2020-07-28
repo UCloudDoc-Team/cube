@@ -8,8 +8,8 @@
 
 ### 限时加入Cube测试交流群，获得专业的技术指导。
 
-<img src="/images/wechatGroup_20200728.png" width="300" />
-<!-- ![](/images/wechatGroup_20200728.png) -->
+<!-- <img src="/images/wechatGroup_20200728.png" width="300" /> -->
+![](/images/wechatGroup_20200728.png)
 
 #### [产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题)
 
