@@ -11,5 +11,7 @@
   * [对比K8S](/cube/userguide/from_k8s.md)
 * 卷设置
   * [在Cube中使用UFS](/cube/volume/ufs.md)
+* 快速入门
+  * [创建带SSh服务的CentOS容器](/cube/quickstar/centos_ssh.md)
 * 常见问题
   * [运行状态](/cube/question/status.md)
