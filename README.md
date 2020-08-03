@@ -37,6 +37,10 @@
 
 * [在Cube中使用UFS](/cube/volume/ufs.md)
 
+## 快速入门
+
+* [创建带SSh服务的CentOS容器](/cube/quickstar/centos_ssh.md)
+
 ## 常见问题
 
 在您部署容器组时，对应的您可能会遇到一些使用中的问题，常见问题分类将解决您遇到的大部分问题，如您未找到解决方案请与我们客服联系。
