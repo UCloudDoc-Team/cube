@@ -12,7 +12,7 @@
 
 镜像没有默认初始密码，需要用户待容器运行状态变为`running`以后，在Cube容器组详情页面点击`登录`。
 
-![](../images/quickstar/centos-ssh-web.png)
+![](../images/quickstar/centos-ssh-web2.png)
 
 登录容器后输入`passwd root`输入新的密码。
 
