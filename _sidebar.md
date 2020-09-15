@@ -10,7 +10,9 @@
   * [创建详解](/cube/userguide/describe_create.md)
   * [对比K8S](/cube/userguide/from_k8s.md)
 * 卷设置
+  * [在Cube中使用Config](/cube/volume/config.md)
   * [在Cube中使用UFS](/cube/volume/ufs.md)
+  * [在Cube中使用UDisk](/cube/volume/udisk.md)
 * 快速入门
   * [创建带SSh服务的CentOS容器](/cube/quickstar/centos_ssh.md)
 * 常见问题

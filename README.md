@@ -35,7 +35,9 @@
 
 在您部署容器组时，根据应用需要，部分数据需要持久化存储，您可以参考以下文档在Cube中使用UCloud的存储资源进行挂载。
 
+* [在Cube中使用Config](/cube/volume/config.md)
 * [在Cube中使用UFS](/cube/volume/ufs.md)
+* [在Cube中使用UDisk](/cube/volume/udisk.md)
 
 ## 快速入门
 
