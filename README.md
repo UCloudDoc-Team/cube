@@ -21,6 +21,7 @@
 
 * [什么是Cube](/cube/introduction/whatiscube.md)
 * [产品优势](/cube/introduction/advantages.md)
+* [计费说明](/cube/introduction/charge.md)
 
 ## 使用指南
 

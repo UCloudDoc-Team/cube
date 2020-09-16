@@ -4,6 +4,7 @@
 * 产品介绍
   * [什么是Cube](/cube/introduction/whatiscube.md)
   * [产品优势](/cube/introduction/advantages.md)
+  * [计费说明](/cube/introduction/charge.md)
 * 使用指南
   * [使用须知](/cube/userguide/before_start.md)
   * [快速创建](/cube/userguide/quick_start.md)
