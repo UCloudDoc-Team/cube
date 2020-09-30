@@ -1,5 +1,7 @@
 # 在Cube中使用UDisk
 
+目前快杰版Cube只支持RSSD类型的UDisk挂载，具体性能指标请查看[快杰Cube云盘性能](../introduction/kuaijie?id=云盘性能)
+
 ## 前置条件
 
 1. 需要在[Cube云盘管理](https://console.ucloud.cn/cube/udisk)购买UDisk云盘。
