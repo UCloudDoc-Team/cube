@@ -21,4 +21,3 @@
   * [PHP应用的高可用部署](/cube/quickstar/php.md)
 * 常见问题
   * [运行状态](/cube/question/status.md)
-machine_type
