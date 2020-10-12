@@ -64,9 +64,12 @@
 
 这里我们使用到的nginx命令在Dockerfile中为`CMD ["nginx", "-g", "daemon off;"]`，其中可以拆分成
 
-命令: `nginx`
+命令(command): 
+```
+nginx
+```
 
-参数: 
+参数(args): 
 ```
 -g
 daemon off;

@@ -44,7 +44,7 @@
 
 ## 快速入门
 
-* [创建带SSh服务的CentOS容器](/cube/quickstar/centos_ssh.md)
+* [创建带SSH服务的CentOS容器](/cube/quickstar/centos_ssh.md)
 * [PHP应用的高可用部署](/cube/quickstar/php.md)
 
 ## 常见问题

@@ -2,11 +2,11 @@
 
 ## 快速创建Cube实例
 
-1. 点击Cube的创建按钮进入创建页面，为你的容器组起一个名字
+1. 点击Cube的创建按钮进入创建页面，为你的容器组起一个名字；
 
 ![](../images/createCube1.png)
 
-2. 选择一个仓库内的镜像，这里快速创建我选择的UCloud镜像仓库nginx镜像1.17.10-alpine版本，您可以将自有镜像推送到UCloud私有镜像仓库，[UHub镜像仓库操作](/uhub/guide)
+2. 选择一个仓库内的镜像，这里快速创建我选择的UCloud镜像仓库nginx镜像1.17.10-alpine版本，您可以将自有镜像推送到UCloud私有镜像仓库，[UHub镜像仓库操作](/uhub/guide)；
 
 ![](../images/createCube2.png)
 
@@ -14,4 +14,3 @@
 
 ![](../images/createCube3.png)
    
-> Cube支持除UFS外，也默认支持其他nfs协议的文件存储，用户如需使用需要自行配置。

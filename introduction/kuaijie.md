@@ -10,7 +10,7 @@
 
 ## 快杰版Cube支持区域
 
-在以下区域中，默认为快杰版Cube
+在以下可用区中，默认为快杰版Cube。
 
 |地域|可用区|
 |---|---|
@@ -21,9 +21,9 @@
 
 ## CPU
 
-CPU平台支持：AMD EPYC / Intel Cascadelake
+CPU平台支持：AMD EPYC / Intel Cascadelake。
 
-CPU内存组合：
+CPU、内存组合：
 
 |CPU(核)|内存(Gi)|
 |---|---|
