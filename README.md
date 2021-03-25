@@ -37,6 +37,12 @@
 * [创建详解](/cube/userguide/describe_create.md)
 * [对比K8S](/cube/userguide/from_k8s.md)
 
+## Deployment 控制器
+
+通过 Deployment 控制器，进行 Cube 实例的批量创建和管理。
+
+* [批量创建Cube实例](/cube/deployment/deployment_create.md)
+
 ## 卷设置
 
 在您部署容器组时，根据应用需要，部分数据需要持久化存储，您可以参考以下文档在Cube中使用UCloud的存储资源进行挂载。

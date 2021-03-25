@@ -11,6 +11,8 @@
   * [快速创建](/cube/userguide/quick_start.md)
   * [创建详解](/cube/userguide/describe_create.md)
   * [对比K8S](/cube/userguide/from_k8s.md)
+* Deployment 控制器
+  * [批量创建Cube实例](/cube/deployment/deployment_create.md)
 * 卷设置
   * [在Cube中使用Config](/cube/volume/config.md)
   * [在Cube中使用UFS](/cube/volume/ufs.md)
