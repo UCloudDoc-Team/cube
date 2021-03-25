@@ -6,9 +6,10 @@
 
 #### 非必填项
 
-卷设置提供了config类型，与Kubernetes中的configMap资源对象一致。config提供的是键值对配置文件挂载。
+卷设置提供了 config 类型、UDisk 云盘挂载（[在 Cube 中使用 UDisk](/cube/volume/udisk.md)）、NFS 文件存储挂载（[在 Cube 中使用 UFS](/cube/volume/ufs.md)）及 emptyDir 类型。
+config 类型与Kubernetes中的configMap资源对象一致，提供的是键值对配置文件挂载。
 
-![](../images/volume1.png)
+![](../images/volume/config1.png)
 
 如图所示点击添加卷设置，填入如下信息然后确定。
 
