@@ -113,6 +113,12 @@ daemon off;
 
 这里可以设置我们创建的Cube实例的重启策略，分别为总是(Always)、失败时(OnFailure)、从不(Never)。
 
+## 自定义 DNS 服务及 HostAliases
+
+为 Cube 实例添加自定义 DNS 服务，如无需自定义，则默认使用 UCloud 内网 DNS 地址；当 DNS 配置不合理的时候，可以通过通过 HostAliases 字段向 Cube 实例的 /etc/hosts 文件中添加条目， 覆盖对主机名的解析。 
+
+![](../images/createCube4.png)
+
 ## 自定义网络
 
 * 您所创建的Cube实例的网络位置将存在于具体的一个VPC的子网里。
