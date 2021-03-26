@@ -38,7 +38,7 @@ Deployment 提供多种 UDisk 类型支持，包括 RSSD 云盘、SSD 云盘及�
 
 ##### 5. 自定义 DNS 服务及 HostAliases
 
-为 Deployment 中的 Cube 实例添加自定义 DNS 服务，如无需自定义，则默认使用 UCloud 内网 DNS 地址；当 DNS 配置不合理的时候，可以通过通过 HostAliases 字段向 Cube 实例的 /etc/hosts 文件中添加条目， 覆盖对主机名的解析。 
+为 Deployment 中的 Cube 实例添加自定义 DNS 服务，如无需自定义，则默认使用 UCloud 内网 DNS 地址；当 DNS 配置不合理的时候，可以通过 HostAliases 字段向 Cube 实例的 /etc/hosts 文件中添加条目， 覆盖对主机名的解析。 
 
 ![](../images/createCube4.png)
 
