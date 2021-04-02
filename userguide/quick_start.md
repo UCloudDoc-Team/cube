@@ -6,7 +6,7 @@
 
 ![](../images/createCube1.png)
 
-2. 选择一个仓库内的镜像，这里快速创建我选择的UCloud镜像仓库nginx镜像1.17.10-alpine版本，您可以将自有镜像推送到UCloud私有镜像仓库，[UHub镜像仓库操作](/uhub/guide)；
+2. 选择一个仓库内的镜像，这里快速创建我选择的UCloud镜像仓库nginx镜像1.17.10-alpine版本，您可以将自有镜像推送到UCloud私有镜像仓库，[UHub镜像仓库操作](/uhub/guide)；如需使用自建镜像仓库，请参考[自建镜像仓库支持](/cube/userguide/self_repository.md)
 
 ![](../images/createCube2.png)
 

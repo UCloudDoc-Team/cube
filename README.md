@@ -14,7 +14,7 @@
 <!-- <img src="/images/wechatGroup_20200728.png" width="300" /> -->
 ![](/images/wechatGroup08141.png)
 
-#### [产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [卷设置](#卷设置)  |  [常见问题](#常见问题)
+#### [产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [Deployment控制器](#Deployment控制器)  [卷设置](#卷设置)  |  [常见问题](#常见问题)
 
 </center>   
 
@@ -37,7 +37,7 @@
 * [创建详解](/cube/userguide/describe_create.md)
 * [对比K8S](/cube/userguide/from_k8s.md)
 
-## Deployment 控制器
+## Deployment控制器
 
 通过 Deployment 控制器，进行 Cube 实例的批量创建和管理。
 
