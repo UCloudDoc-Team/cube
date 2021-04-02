@@ -8,7 +8,7 @@ Cube 支持拉取同一 VPC 下的自建镜像仓库，丰富了使用场景，�
 
 在控制台创建/修改 Cube 及 Deployment 时，在容器「镜像设置」页面，选择自建镜像仓库，并输入镜像的详细信息。当前只支持基于 UCloud 同一主账号下云主机搭建的镜像仓库。
 
-|  字段  |  说明  |
+|&nbsp;&nbsp;&nbsp;字段&nbsp;&nbsp;&nbsp;|  说明  |
 |:------|:------|
 |镜像地址|包含镜像名及版本号的完整镜像拉取地址，如 core.harbor.domain/nginx:latest|
 |所属 VPC|自建镜像仓库所在 VPC，如 VPC 在同一项目下，可直接选择，如存在跨项目情况，需要输入对应的 VPC ID，如 uvnet-xxxxxxxx|
