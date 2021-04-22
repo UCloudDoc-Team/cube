@@ -16,7 +16,7 @@ Cube 支持拉取同一 VPC 下的自建镜像仓库，丰富了使用场景，�
 
 |    字段    |  说明  |
 |:------|:------|
-|镜像地址|包含镜像名及版本号的完整镜像拉取地址，<br>如 core.harbor.domain/nginx:latest|
+|镜像地址|包含镜像名及版本号的完整镜像拉取地址，<br>如 core.harbor.domain/nginx:test2|
 |所属 VPC|自建镜像仓库所在 VPC，如 VPC 在同一项目下，可直接选择；<br>如存在跨项目情况，需要输入对应的 VPC ID，如 uvnet-xxxxxxxx|
 |仓库域名|仓库域名，如 core.harbor.domain|
 |仓库地址|仓库所在云主机的内网 IPv4 地址，<br>如 10.9.87.17|
