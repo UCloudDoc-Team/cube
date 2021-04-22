@@ -10,6 +10,7 @@
   * [CPU平台](/cube/userguide/machine_type.md)
   * [快速创建](/cube/userguide/quick_start.md)
   * [创建详解](/cube/userguide/describe_create.md)
+  * [自建镜像仓库支持](/cube/userguide/self_repository.md)
   * [对比K8S](/cube/userguide/from_k8s.md)
 * Deployment 控制器
   * [批量创建Cube实例](/cube/deployment/deployment_create.md)
