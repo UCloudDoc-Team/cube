@@ -24,8 +24,8 @@
 容器实例（Cube）将带大家进入一个全新的云原生程序的部署方式，首先我们来一起了解一下Cube是什么、它的优势是什么。
 
 * [什么是Cube](/cube/introduction/whatiscube.md)
-* [Cube 机型配置](/cube/introduction/kuaijie.md)
 * [产品优势](/cube/introduction/advantages.md)
+* [Cube 机型配置](/cube/introduction/kuaijie.md)
 * [计费说明](/cube/introduction/charge.md)
 
 ## 使用指南

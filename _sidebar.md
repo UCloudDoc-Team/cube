@@ -2,8 +2,8 @@
 * [概览](/cube/README.md)
 * 产品介绍
   * [什么是Cube](/cube/introduction/whatiscube.md)
-  * [Cube 机型配置](/cube/introduction/kuaijie.md)
   * [产品优势](/cube/introduction/advantages.md)
+  * [Cube 机型配置](/cube/introduction/kuaijie.md)
   * [计费说明](/cube/introduction/charge.md)
 * 使用指南
   * [使用须知](/cube/userguide/before_start.md)
