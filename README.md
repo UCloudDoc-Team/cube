@@ -24,7 +24,7 @@
 容器实例（Cube）将带大家进入一个全新的云原生程序的部署方式，首先我们来一起了解一下Cube是什么、它的优势是什么。
 
 * [什么是Cube](/cube/introduction/whatiscube.md)
-* [快杰版Cube](/cube/introduction/kuaijie.md)
+* [Cube 机型配置](/cube/introduction/kuaijie.md)
 * [产品优势](/cube/introduction/advantages.md)
 * [计费说明](/cube/introduction/charge.md)
 
@@ -33,7 +33,7 @@
 接下来我们使用容器实例(Cube)发布您的服务，将介绍具体创建填写字段含义以及示例操作。
 
 * [使用须知](/cube/userguide/before_start.md)
-* [CPU平台](/cube/userguide/machine_type.md)
+<!--* [CPU平台](/cube/userguide/machine_type.md)-->
 * [快速创建](/cube/userguide/quick_start.md)
 * [创建详解](/cube/userguide/describe_create.md)
 * [自建镜像仓库支持](/cube/userguide/self_repository.md)
