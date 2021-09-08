@@ -38,7 +38,7 @@
 
 ## Part 3 配置 WordPress
 
-1. 回到刚刚的 WordPress 配置界面，数据数据库名称（wordpress）、用户名、密码（创建 MySQL 时配置的密码）、服务器地址（数据库 IP 地址:端口号），点击提交，可以看到数据库已经连接成功，可以开始安装了
+1. 回到刚刚的 WordPress 配置界面，输入数据库名称（wordpress）、用户名、密码（创建 MySQL 时配置的密码）、服务器地址（数据库 IP 地址:端口号），点击提交，可以看到数据库已经连接成功，可以开始安装了
 ![Cube_13](../images/quickstar/cube_wp_13.png)
 ![Cube_14](../images/quickstar/cube_wp_14.png)
 
