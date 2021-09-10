@@ -12,7 +12,7 @@
 
 点击打开容器高阶设置，在环境变量输入`PASSWD`:`youpassword`设置您的密码。
 
-![](../images/quickstar/centos-ssh-passwd2.png)
+![](centos-ssh-passwd2.png)
 
 选择绑定外网弹性IP，确认并进行创建。
 
