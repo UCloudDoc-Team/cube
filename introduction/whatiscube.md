@@ -10,6 +10,6 @@ Cube 产品采用 Serverless 架构，底层为海量 UCloud 基础设施资源�
 
 Cube 产品基于社区开源的 Firecracker 作为虚拟化和容器化的支撑管理，同时我们针对容器化的业务运行进行了深度优化，使 Cube 实例具备了虚拟机级别的安全隔离、轻量化的系统占用、秒级的启动速度。
 
-![](../images/cube_microvm.png)
+![](../images/cube_microvm_update.png)
 
 <!--缺图-->
