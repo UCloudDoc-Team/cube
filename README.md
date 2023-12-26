@@ -1,10 +1,10 @@
 # 概览
 
-容器实例（Cube）是UCloud提供的serverless容器实例服务，通过UCloud的基础设施资源为业务提供了更加弹性、更加安全、更加快速的资源支撑，你可以在Cube上部署、管理你的容器应用，而你无需关心应用底层的服务器运维工作。  
+容器实例（Cube）是UCloud提供的serverless容器实例服务，通过UCloud的基础设施资源为业务提供了更加弹性、更加安全、更加快速的资源支撑，你可以在Cube上部署、管理你的容器应用，而你无需关心应用底层的服务器运维工作。
 <br>
 
 
-  
+
 #### [产品介绍](#产品介绍)   |   [使用指南](#使用指南) |  [Deployment控制器](#Deployment控制器)  [卷设置](#卷设置)  |  [常见问题](#常见问题)
 
 
@@ -26,6 +26,7 @@
 * [快速创建](/cube/userguide/quick_start.md)
 * [创建详解](/cube/userguide/describe_create.md)
 * [自建镜像仓库支持](/cube/userguide/self_repository.md)
+* [第三方镜像仓库支持](/cube/userguide/external_repository.md)
 * [对比K8S](/cube/userguide/from_k8s.md)
 
 ## Deployment控制器
@@ -53,5 +54,4 @@
 
 * [运行状态](/cube/question/status.md)
 * [容器重启策略](/cube/question/restart_policy.md)
-
 
