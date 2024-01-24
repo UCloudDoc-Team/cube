@@ -2,9 +2,9 @@
 
 Cube支持拉取外部镜像，前提是您的镜像满足如下要求：
 
-- 镜像仓库可以通过外网访问。
-- 为了安全起见，仅支持HTTPS协议，并且仓库必须有合法的域名。
-- 镜像支持`linux_amd64`架构。
+- 镜像仓库可以通过外网访问
+- 为了安全起见，仅支持HTTPS协议，并且仓库必须有合法的域名
+- 镜像支持`linux_amd64`架构
 
 ## 控制台创建 / 修改 Cube 实例
 
@@ -27,4 +27,4 @@ imagePullSecrets:
   password: 'Harbor'       # 镜像仓库密码，非必填
 ```
 
-详细 API 请参照[Cube API 文档](/api/cube-api/README.md)
+详细 API 请参照[Cube API 文档](https://docs.ucloud.cn/api/cube-api/index)
